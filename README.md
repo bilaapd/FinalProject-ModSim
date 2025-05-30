@@ -1,6 +1,6 @@
-# FinalProject-ModSim
+# FinalProject-Modelling & Simulation
 
-# Simulasi Sistem Antrean Menaiki Candi Borobudur
+## Simulasi Sistem Antrean Menaiki Candi Borobudur
 
 Setiap harinya, Borobudur hanya menerima 1200 pengunjung untuk menaiki Candi Borobudur. Dengan ketentuan, disetiap jamnya hanya diperbolehkan 100 orang yang menaiki candi. Hal ini disebabkan langkah konservatif dalam menjaga struktur Candi Borobudur. 
 
